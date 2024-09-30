@@ -1,0 +1,5 @@
+tesseract-ocr
+tesseract-ocr-hin
+tesseract-ocr-spa
+tesseract-ocr-fra
+tesseract-ocr-pan
